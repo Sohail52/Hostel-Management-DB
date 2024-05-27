@@ -42,7 +42,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id`, `username`, `email`, `password`, `reg_date`, `updation_date`) VALUES
-(1, 'admin', 'root@gmail.com', '123', '2016-04-04 20:31:45', '2016-04-17');
+(1, 'ok', 'ok@gmail.com', '123', '2016-04-04 20:31:45', '2016-04-17');
 
 -- --------------------------------------------------------
 
