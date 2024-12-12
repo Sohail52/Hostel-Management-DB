@@ -1,12 +1,12 @@
 # Hostel Management System (PHP & MySQL)
 
-- A simple web-based Hostel Management System built with **PHP** and **MySQL** for managing hostel rooms, students, and user authentication.
+A simple web-based **Hostel Management System** built with **PHP** and **MySQL** for managing hostel rooms, students, and user authentication.
 
 ## Features
 
-- Admin Panel: Manage rooms, students, and users.
-- User Panel: View and book rooms.
-- Authentication: Admin and User logins.
+- **Admin Panel:** Manage rooms, students, and users.
+- **User Panel:** View and book rooms.
+- **Authentication:** Admin and User logins.
 
 ## Installation
 
@@ -27,13 +27,10 @@
 
 ## Login Credentials
 
-- **Admin Login**:  
+- **Admin Login:**  
   Username: `ok`  
   Password: `123`
 
-- **User Login**:  
+- **User Login:**  
   Username: `ok@gmail.com`  
   Password: `123`
-
-
-
